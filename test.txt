@@ -1,3 +1,4 @@
 test1
 test2
 test3 fromd source tree
+test4 from git
